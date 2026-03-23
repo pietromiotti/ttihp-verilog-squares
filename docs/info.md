@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Implementation of hypnotic concentric squares via VGA playground
 
 ## How to test
 
-Explain how to use your project
+The verilog can be directly tested using the VGA PLAYGROUND
 
 ## External hardware
 
